@@ -3,7 +3,7 @@
 *Clean code* by Robert C. Martin (Uncle Bob) is a classic book in Software engineering that every developer must read in order to build a better software.
 
 
-Bullet points of the book from [here](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+Bullet points of this talk obtained from [this Gist](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 **My advice: read the book!!!!!!!!!**
 
